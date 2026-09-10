@@ -35,4 +35,8 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
+# llms.txt：面向 AI 引擎的站点摘要（详见 https://llmstxt.org）
+# LLMs-Txt: https://www.lipeimao.com/llms.txt
+# LLMs-Txt-Full: https://www.lipeimao.com/llms-full.txt
+
 Sitemap: https://www.lipeimao.com/sitemap.xml
