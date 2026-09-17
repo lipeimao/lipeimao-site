@@ -2,45 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.lipeimao.com/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.lipeimao.com/services/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.lipeimao.com/cases/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.lipeimao.com/insights/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.lipeimao.com/about/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.lipeimao.com/contact/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.lipeimao.com/privacy/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.lipeimao.com/insights/content-assets-for-ai/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.lipeimao.com/insights/douyin-local-life-guide/</loc>
@@ -61,8 +67,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lipeimao.com/insights/how-ai-picks-recommendations/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lipeimao.com/insights/info-consistency-all-platforms/</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lipeimao.com/insights/local-business-next-5-years-qujing/</loc>
     <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lipeimao.com/insights/qujing-county-district-habits/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lipeimao.com/insights/qujing-downmarket-digital/</loc>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
